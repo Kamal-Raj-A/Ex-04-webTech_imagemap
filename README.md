@@ -35,6 +35,8 @@ run the code.
 </body>
 </html>
 
+###
+``````
 <!DOCTYPE html>
 <html>
     <head>cinemas</head>
@@ -81,7 +83,7 @@ run the code.
         <h1 style="font-family:verdana;"> <u>Vcare: Hair & skin Kanchipuram</u></h1>
         <p style="color:rgb(165, 42, 42); font-size: 200%;" >VCare Trichology is India’s leading hair and skin clinic with over 20 years of experience in the industry. The clinic is headed by Ms. Carolin Praba Reddy, one of India’s top 10 leading trichologists. VCare offers a wide range of hair and skin treatments, including hair transplantation, hair regrowth, anti-dandruff treatment, skin whitening treatment, pigmentation treatment, stretch marks treatment, wart removal treatment, acne treatment, laser hair removal, and anti-aging treatment 1.<strong> </str
 </html>
-
+``````
 
 # Output:
 ![Alt text](<Screenshot 2023-11-22 054709.png>)
